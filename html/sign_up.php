@@ -6,13 +6,15 @@
 
     <meta charset="utf-8">
     
-    <title>Login</title>
+    <title>Sign Up</title>
     
 </head>
 
     
 
 <body>
+<?php include 'navigation.php'; ?>
 
+<?php include 'footer.php'; ?>
 </body>
 </html>
