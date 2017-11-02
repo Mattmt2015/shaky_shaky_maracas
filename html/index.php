@@ -17,7 +17,7 @@
 <body>
 
 
-<?php include 'navigation.php'; ?>
+<?php include '../resources/navigation.php'; ?>
 
     <img src="images/titlepicture.png" alt="Title Picture"/>
 
@@ -27,7 +27,7 @@
     maraca that is indestructible. We even ran our maracas over with a car.</p>
 
    
-<?php include 'footer.php'; ?>
+<?php include '../resources/footer.php'; ?>
 
 </body>
 

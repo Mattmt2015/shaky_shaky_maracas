@@ -14,7 +14,7 @@
 
 <body>
 
-<?php include 'navigation.php'; ?>
+<?php include '../resources/navigation.php'; ?>
         
         <img src="images/headerpicture.png" alt="Header Picture"/>
     
@@ -45,7 +45,7 @@
     
 
     
-<?php include 'footer.php'; ?>
+<?php include '../resources/footer.php'; ?>
 
 </body>
 
