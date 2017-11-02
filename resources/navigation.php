@@ -2,23 +2,23 @@
         <nav>
               <ul>
                   <li>
-                      <a href="about.html">About Us</a>
+                      <a href="about.php">About Us</a>
                   </li>
         
                   <li>
-                      <a href="for_sale.html">Our Products</a>
+                      <a href="for_sale.php">Our Products</a>
                   </li>
         
                   <li>
-                      <a href="hours_and_directions.html">Store Hours and Location</a>
+                      <a href="hours_and_directions.php">Store Hours and Location</a>
                   </li>
         
                   <li>
-                      <a href="news.html">Shaky Shaky News</a>
+                      <a href="news.php">Shaky Shaky News</a>
                   </li>
         
                   <li>
-                      <a href="process.html">How Our Maracas Are Made</a>
+                      <a href="process.php">How Our Maracas Are Made</a>
                   </li>
               </ul>
         </nav>
